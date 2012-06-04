@@ -1,0 +1,4 @@
+siriproxy-calc
+==============
+
+plugin calculatrice 
