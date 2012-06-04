@@ -4,9 +4,9 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "siriproxy-calc"
   s.version     = "0.0.1" 
-  s.authors     = ["mu"]
-  s.email       = ["Twitter@muhkuh0815"]
-  s.homepage    = "http://github.com/muhkuh0815"
+  s.authors     = ["gregthehacker"]
+  s.email       = ["Twitter@gregaaronryan"]
+  s.homepage    = "http://github.com/gregthehacker"
   s.summary     = %q{An simple Siri Calculator}
   s.description = %q{An simple Siri Calculator}
 
