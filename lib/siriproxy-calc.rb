@@ -10,32 +10,15 @@ require 'decimal'
 
 #######
 # 
-# just a simple Calculator Plugin
+# juste un simple plugin calculatrice
 #
-#      Remember to add the plugin to the "/.siriproxy/config.yml" file !
-#
-# ein einfaches Rechner Plugin
-#
-#      Plugin in "/.siriproxy/config.yml" file hinzufügen !
-#
-### Syntax
-#
-# till now only simply calculations work, like +, -, * and /
-#
-# rechne 6 x 2
-# berechne 7,23 * 2,3
-#
-#
-### Todo
-#
-# Checking for float
-# ask instead of say - so you can calculate  5 + 5 then + 4 and - 7 ...
+#      n'oubliez pas d'ajoutez le fichier dans "/.siriproxy/config.yml"
 #
 #
 ### Contact
 #
-# Twitter: @muhkuh0815
-# oder github.com/muhkuh0815/SiriProxy-Calc
+# Twitter: @gregaaronryan
+# oder github.com/gregaaronryan/SiriProxy-Calc
 ######
 
 class SiriProxy::Plugin::Calc < SiriProxy::Plugin
